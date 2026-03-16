@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\controllers\\issuedbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\controllers\\issuedbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\wwwroot\\pages\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\wwwroot\\pages\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\wwwroot\\pages\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\wwwroot\\pages\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\wwwroot\\pages\\issue.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\wwwroot\\pages\\issue.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\wwwroot\\pages\\books.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\wwwroot\\pages\\books.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\wwwroot\\pages\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\wwwroot\\pages\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\models\\issuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\models\\issuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|c:\\users\\khushi\\onedrive\\desktop\\sem_5\\libraryportalapi\\libraryportalapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C840E1C9-305E-4945-9BE8-688A930917BC}|LibraryPortalAPI\\LibraryPortalAPI.csproj|solutionrelative:libraryportalapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\pages\\register.html",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\wwwroot\\pages\\register.html",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\pages\\register.html",
+              "RelativeToolTip": "LibraryPortalAPI\\wwwroot\\pages\\register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-15T05:21:31.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\pages\\login.html",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\wwwroot\\pages\\login.html",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\pages\\login.html",
+              "RelativeToolTip": "LibraryPortalAPI\\wwwroot\\pages\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-15T05:21:10.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "LibraryPortalAPI\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-15T05:20:50.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssuedBooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Controllers\\IssuedBooksController.cs",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\Controllers\\IssuedBooksController.cs",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Controllers\\IssuedBooksController.cs",
+              "RelativeToolTip": "LibraryPortalAPI\\Controllers\\IssuedBooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:04:10.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Program.cs",
+              "RelativeToolTip": "LibraryPortalAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:50:54.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "issue.html",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\pages\\issue.html",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\wwwroot\\pages\\issue.html",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\pages\\issue.html",
+              "RelativeToolTip": "LibraryPortalAPI\\wwwroot\\pages\\issue.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-15T05:22:57.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryPortalAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:00:53.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "books.html",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\pages\\books.html",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\wwwroot\\pages\\books.html",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\pages\\books.html",
+              "RelativeToolTip": "LibraryPortalAPI\\wwwroot\\pages\\books.html",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-15T05:22:38.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "LibraryPortalAPI\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-15T05:23:22.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\pages\\dashboard.html",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\wwwroot\\pages\\dashboard.html",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\wwwroot\\pages\\dashboard.html",
+              "RelativeToolTip": "LibraryPortalAPI\\wwwroot\\pages\\dashboard.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-15T05:21:49.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LibraryPortalAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:00:39.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\appsettings.json",
+              "RelativeToolTip": "LibraryPortalAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T17:49:48.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryPortalAPI\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:49:09.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IssuedBook.cs",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Models\\IssuedBook.cs",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\Models\\IssuedBook.cs",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Models\\IssuedBook.cs",
+              "RelativeToolTip": "LibraryPortalAPI\\Models\\IssuedBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:48:20.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryPortalAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:47:45.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryPortalAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Khushi\\OneDrive\\Desktop\\Sem_5\\LibraryPortalAPI\\LibraryPortalAPI\\Models\\User.cs",
+              "RelativeToolTip": "LibraryPortalAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:47:10.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

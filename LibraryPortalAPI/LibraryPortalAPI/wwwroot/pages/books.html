@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Books</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+    <div class="navbar">Book Management</div>
+
+    <div class="container">
+
+        <div class="card">
+
+            <h3>Add Book</h3>
+
+            <input id="title" placeholder="Book Title">
+
+            <input id="author" placeholder="Author">
+
+            <input id="quantity" type="number" placeholder="Quantity">
+
+            <button onclick="addBook()">Add Book</button>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Book List</h3>
+
+            <table id="bookTable">
+
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Quantity</th>
+                </tr>
+
+            </table>
+
+        </div>
+
+    </div>
+
+    <script src="../js/script.js"></script>
+    <script>
+        loadBooks();
+    </script>
+
+</body>
+</html>

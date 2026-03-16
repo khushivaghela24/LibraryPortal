@@ -1,0 +1,8 @@
+wwwroot\css\style.css
+wwwroot\js\script.js
+wwwroot\pages\books.html
+wwwroot\pages\dashboard.html
+wwwroot\pages\issue.html
+wwwroot\pages\login.html
+wwwroot\pages\register.html
+wwwroot\pages\return-book.html

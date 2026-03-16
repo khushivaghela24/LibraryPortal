@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LibraryPortalAPI",
+    "\\LibraryPortalAPI\\Controllers",
+    "\\LibraryPortalAPI\\wwwroot",
+    "\\LibraryPortalAPI\\wwwroot\\js",
+    "\\LibraryPortalAPI\\wwwroot\\pages"
+  ],
+  "SelectedNode": "\\LibraryPortalAPI\\Controllers\\BooksController.cs",
+  "PreviewInSolutionExplorer": false
+}
